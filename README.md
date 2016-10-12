@@ -1,6 +1,8 @@
 # GitHub Organization Monitor
 
-Monitor the most recent 300 events for a GitHub organization or user. Built using VueJS 1.x, Vue Resource, and Boostrap 3.3.
+Monitor the most recent 300 events for a GitHub organization or user.
+
+Built using VueJS 1.x, Vue Resource, and Boostrap 3.3.
 
 ## Quick links
 
